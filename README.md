@@ -15,6 +15,7 @@ We were then tasked to create two matplotlib plots to show our data vizualizatio
 
 Part Two. 
 Design a client app using flask and flask routes to fulfil these requirements. 
+
 1. /
 Start at the homepage.
 List all the available routes.
